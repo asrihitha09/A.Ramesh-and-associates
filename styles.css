@@ -1,0 +1,50 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*title section */
+.title {
+  text-align: center;
+  padding: 200px;
+  color: #faf4f4;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* navigation bar */
+.navbar-item {
+  padding: 0 10px;
+}
+
+/* services */
+#services {
+  text-align: center;
+  margin: 100px;
+}
+
+.services-title {
+  margin: 50px;
+}
+
+.service-image {
+  height: 200px;
+  width: 300px;
+}
+
+.service-desp {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* About */
+.about {
+  height: 500px;
+  background-color: #838383;
+  text-align: center;
+  padding: 80px;
+}
+
+/* contact */
+#contact {
+  padding: 100px;
+  text-align: center;
+  
+}
