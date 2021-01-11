@@ -4,7 +4,7 @@ h1 {
 
 /*title section */
 .title {
-  background-image: url(https://www.agdelta.com/wp-content/uploads/2018/06/website-parallax-background-C.jpg);
+  background-image: url("https://www.agdelta.com/wp-content/uploads/2018/06/website-parallax-background-C.jpg");
   text-align: center;
   padding: 200px;
   color: #faf4f4;
