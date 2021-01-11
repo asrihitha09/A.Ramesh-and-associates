@@ -4,7 +4,7 @@ h1 {
 
 /*title section */
 .title {
-  background-image: url(https://www.akw.com.au/img/akw-audit.jpg);
+  background-image: url("https://www.akw.com.au/img/akw-audit.jpg");
   text-align: center;
   padding: 200px;
   color: #faf4f4;
